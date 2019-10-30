@@ -9,3 +9,8 @@ def toadstool
   puts $status
 end
 
+def link
+  equip="It's Dangerous To Go Alone! Take This."
+  puts equip
+end
+
